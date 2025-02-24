@@ -15,3 +15,6 @@ print(8
       
       
       )
+
+
+print(disini adalampu)
