@@ -17,4 +17,6 @@ print(8
       )
 
 
-print(disini adalampu)
+print("disini adalampu")
+
+print("kami disini bersama")
