@@ -20,3 +20,5 @@ print(8
 print("disini adalampu")
 
 print("kami disini bersama")
+
+print("ronaldo")
